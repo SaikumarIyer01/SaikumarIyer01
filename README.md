@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaikumarIyer01
+- 👋 Hi, I’m @SaikumarIyer01,CSE undergrad student
 - 👀 I’m interested in Computer science as well as data science
-- 🌱 I’m currently learning .Net as well as web development
+- 🌱 I’m currently learning .Net alongside web development
 - 📫 How to reach me my email -> rsai01iyer@gmail.com
 
 <!---
